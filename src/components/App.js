@@ -10,6 +10,6 @@ function App() {
             <Article article={articles[0]} className={'be'} />
         </div>
     )
-};
+}
 
 export default App;
